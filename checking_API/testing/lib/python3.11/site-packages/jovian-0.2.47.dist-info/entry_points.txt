@@ -1,0 +1,3 @@
+[console_scripts]
+jovian = jovian.__main__:main
+
