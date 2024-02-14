@@ -1,0 +1,6526 @@
+<CTIMinerDataset>
+  <Event>
+    <id>361</id>
+    <date>2011-01-29</date>
+    <info>dukes_whitepaper.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>dukes_whitepaper.pdf</value>
+        <type>comment</type>
+        <id>4299</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>MiniDuke_Paper_Final.pdf</value>
+        <type>filename</type>
+        <id>4300</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>secure.com</value>
+        <type>url</type>
+        <id>4301</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cosmicduke_whitepaper.pdf</value>
+        <type>filename</type>
+        <id>4302</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>nostressjob.com</value>
+        <type>url</type>
+        <id>4303</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>alkavkaz.com</value>
+        <type>url</type>
+        <id>4304</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>store.extremesportsevents.net</value>
+        <type>url</type>
+        <id>4305</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>173.236.70.212</value>
+        <type>ip-src</type>
+        <id>4306</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>leveldelta.com</value>
+        <type>url</type>
+        <id>4307</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>beijingnewsblog.net</value>
+        <type>url</type>
+        <id>4308</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>69.59.28.57</value>
+        <type>ip-src</type>
+        <id>4309</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>50.7.192.146</value>
+        <type>ip-src</type>
+        <id>4310</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>CVE-2013-0640</value>
+        <type>vulnerability</type>
+        <id>4311</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>nasdaqblog.net</value>
+        <type>url</type>
+        <id>4312</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>rpt-apt29-hammertoss.pdf</value>
+        <type>filename</type>
+        <id>4313</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>welivesecurity.com</value>
+        <type>url</type>
+        <id>4314</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>CVE-2010-0232</value>
+        <type>vulnerability</type>
+        <id>4315</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>91.221.66.242</value>
+        <type>ip-src</type>
+        <id>4316</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>83.149.74.73</value>
+        <type>ip-src</type>
+        <id>4317</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>151.236.23.31</value>
+        <type>ip-src</type>
+        <id>4318</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>184.154.184.83</value>
+        <type>ip-src</type>
+        <id>4319</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>212.76.128.149</value>
+        <type>ip-src</type>
+        <id>4320</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>176.74.216.14</value>
+        <type>ip-src</type>
+        <id>4321</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>87.255.77.36</value>
+        <type>ip-src</type>
+        <id>4322</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>cihaderi.net</value>
+        <type>url</type>
+        <id>4323</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>seclists.org</value>
+        <type>url</type>
+        <id>4324</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>178.63.149.142</value>
+        <type>ip-src</type>
+        <id>4325</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>kasperskycontenthub.com</value>
+        <type>url</type>
+        <id>4326</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>91.224.141.235</value>
+        <type>ip-src</type>
+        <id>4327</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>Mail.ru</value>
+        <type>url</type>
+        <id>4328</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>66.29.115.55</value>
+        <type>ip-src</type>
+        <id>4329</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.boost.org</value>
+        <type>url</type>
+        <id>4330</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>188.40.13.99</value>
+        <type>ip-src</type>
+        <id>4331</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>nestedmail.com</value>
+        <type>url</type>
+        <id>4332</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.natoinfo.ge</value>
+        <type>url</type>
+        <id>4333</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>128.199.138.233</value>
+        <type>ip-src</type>
+        <id>4334</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>178.21.172.157</value>
+        <type>ip-src</type>
+        <id>4335</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>whitepaper.pdf</value>
+        <type>filename</type>
+        <id>4336</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>82.146.47.163</value>
+        <type>ip-src</type>
+        <id>4337</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>juliet.usexy.cc</value>
+        <type>url</type>
+        <id>4338</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>64.18.143.66</value>
+        <type>ip-src</type>
+        <id>4339</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>96.9.182.37</value>
+        <type>ip-src</type>
+        <id>4340</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>82.146.51.22</value>
+        <type>ip-src</type>
+        <id>4341</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>94.242.199.88</value>
+        <type>ip-src</type>
+        <id>4342</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>airtravelabroad.com</value>
+        <type>url</type>
+        <id>4343</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>natureinhome.com</value>
+        <type>url</type>
+        <id>4344</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Video.zip</value>
+        <type>filename</type>
+        <id>4345</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>greencastleadvantage.com</value>
+        <type>url</type>
+        <id>4346</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>oilnewsblog.com</value>
+        <type>url</type>
+        <id>4347</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>CVE-2013-0641</value>
+        <type>vulnerability</type>
+        <id>4348</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>deervalleyassociation.com</value>
+        <type>url</type>
+        <id>4349</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>nytunion.com</value>
+        <type>url</type>
+        <id>4350</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>5.45.66.134</value>
+        <type>ip-src</type>
+        <id>4351</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>85.17.143.149</value>
+        <type>ip-src</type>
+        <id>4352</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>46.246.120.178</value>
+        <type>ip-src</type>
+        <id>4353</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>overpict.com</value>
+        <type>url</type>
+        <id>4354</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>miniduke_indicators_public.pdf</value>
+        <type>filename</type>
+        <id>4355</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>malware.prevenity.com</value>
+        <type>url</type>
+        <id>4356</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>sixsquare.net</value>
+        <type>url</type>
+        <id>4357</id>
+      </item>
+      <item>
+        <category>Artifacts dropped</category>
+        <comment/>
+        <value>D:\Projects\Agent2011\Agent2011\Agent\tasks\bin\systeminfo\exe\systeminfo.pdb</value>
+        <type>pdb</type>
+        <id>4358</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Sea.docx</value>
+        <type>filename</type>
+        <id>4359</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>dayassemblermicrobackdoor.pdf</value>
+        <type>filename</type>
+        <id>4360</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ustradecomp.com</value>
+        <type>url</type>
+        <id>4361</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>efele.net</value>
+        <type>url</type>
+        <id>4362</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>serials.hacked.jp</value>
+        <type>url</type>
+        <id>4363</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>circl-analysisreport-miniduke-stage3-public.pdf</value>
+        <type>filename</type>
+        <id>4364</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>188.116.32.164</value>
+        <type>ip-src</type>
+        <id>4365</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>188.241.115.41</value>
+        <type>ip-src</type>
+        <id>4366</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>52d44e936388b77a0afdb21b099cf83ed6cbaa6f</value>
+        <type>sha1</type>
+        <id>4367</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ed0cf362c0a9de96ce49c841aa55997b4777b326</value>
+        <type>sha1</type>
+        <id>4368</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>909d369c42125e84e0650f7e1183abe740486f58</value>
+        <type>sha1</type>
+        <id>4369</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c1ec762878a0eed8ebf47e122e87c79a5e3f7b44</value>
+        <type>sha1</type>
+        <id>4370</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a7819c06746ae8d1e5d5111b1ca711db0c8d923e</value>
+        <type>sha1</type>
+        <id>4371</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>91cb047f28a15b558a9a4dff26df642b9001f8d7</value>
+        <type>sha1</type>
+        <id>4372</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0e263d80c46d5a538115f71e077a6175168abc5c</value>
+        <type>sha1</type>
+        <id>4373</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0bc8485ce6c24bb888e2329d479c9b7303bb98b4</value>
+        <type>sha1</type>
+        <id>4374</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>dea6e89e36cf5a4a216e324983cc0b8f6c58eaa8</value>
+        <type>sha1</type>
+        <id>4375</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>d303a6ddd63ce993a8432f4daab5132732748843</value>
+        <type>sha1</type>
+        <id>4376</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>25b6c73124f11f70474f2687ad1de407343ac025</value>
+        <type>sha1</type>
+        <id>4377</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>10b31a17449705be20890ddd8ad97a2feb093674</value>
+        <type>sha1</type>
+        <id>4378</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b65aa8590a1bac52a85dbd1ea091fc586f6ab00a</value>
+        <type>sha1</type>
+        <id>4379</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f3dcbc016393497f681e12628ad9411c27e57d48</value>
+        <type>sha1</type>
+        <id>4380</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7631f1db92e61504596790057ce674ee90570755</value>
+        <type>sha1</type>
+        <id>4381</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b8b116d11909a05428b7cb6dcce06113f4cc9e58</value>
+        <type>sha1</type>
+        <id>4382</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>97c62e04b0ce401bd338224cdd58f5943f47c8de</value>
+        <type>sha1</type>
+        <id>4383</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b2a951c5b2613abdb9174678f43a579592b0abc9</value>
+        <type>sha1</type>
+        <id>4384</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>11b5cfb37efb45d2c721cbf20cab7c1f5c1aa44b</value>
+        <type>sha1</type>
+        <id>4385</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e841ca216ce4ee9e967ffff9b059d31ccbf126bd</value>
+        <type>sha1</type>
+        <id>4386</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7d17917cb8bc00b022a86bb7bab59e28c3453126</value>
+        <type>sha1</type>
+        <id>4387</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4ec769c15a9e318d41fd4a1997ec13c029976fc2</value>
+        <type>sha1</type>
+        <id>4388</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7ad1bef0ba61dbed98d76d4207676d08c893fc13</value>
+        <type>sha1</type>
+        <id>4389</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>07b4e44b6b3e1c3904ded7d6c9dcf7fa609467ef</value>
+        <type>sha1</type>
+        <id>4390</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7371eecafbaeefd0dc5f4dd5737f745586133f59</value>
+        <type>sha1</type>
+        <id>4391</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>9700c8a41a929449cfba6567a648e9c5e4a14e70</value>
+        <type>sha1</type>
+        <id>4392</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>910dfe45905b63c12c6f93193f5dc08f5b012bc3</value>
+        <type>sha1</type>
+        <id>4393</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c637a9c3fb08879e0f54230bd8dca81deb6e1bcf</value>
+        <type>sha1</type>
+        <id>4394</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8f4138e9588ef329b5cf5bc945dee4ad9fec1dff</value>
+        <type>sha1</type>
+        <id>4395</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>30b377e7dc2418607d8cf5d01ae1f925eab2f037</value>
+        <type>sha1</type>
+        <id>4396</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c3d8a548fa0525e1e55aa592e14303fc6964d28d</value>
+        <type>sha1</type>
+        <id>4397</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ed328e83cda3cdf75ff68372d69bcbacfe2c9c5e</value>
+        <type>sha1</type>
+        <id>4398</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b579845c223331fea9dfd674517fa4633082970e</value>
+        <type>sha1</type>
+        <id>4399</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bf48d8126e84185e7825b69951293271031cbad4</value>
+        <type>sha1</type>
+        <id>4400</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>04299c0b549d4a46154e0a754dda2bc9e43dff76</value>
+        <type>sha1</type>
+        <id>4401</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>073faad9c18dbe0e0285b2747eae0c629e56830c</value>
+        <type>sha1</type>
+        <id>4402</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>d5905327f213a69f314e2503c68ef5b51c2d381e</value>
+        <type>sha1</type>
+        <id>4403</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0e020c03fffabc6d20eca67f559c46b4939bb4f4</value>
+        <type>sha1</type>
+        <id>4404</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0cf68d706c38ab112e0b667498c24626aec730f6</value>
+        <type>sha1</type>
+        <id>4405</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fe33b9f95db53c0096ae9fb9672f9c7c32d22acf</value>
+        <type>sha1</type>
+        <id>4406</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6b7a4ccd5a411c03e3f1e86f86b273965991eb85</value>
+        <type>sha1</type>
+        <id>4407</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8a2227cafa5713297313844344d6b6d9e0885093</value>
+        <type>sha1</type>
+        <id>4408</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>103c37f6276059a5ff47117b7f638013ccffe407</value>
+        <type>sha1</type>
+        <id>4409</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>827de388e0feabd92fe7bd433138aa35142bd01a</value>
+        <type>sha1</type>
+        <id>4410</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>22bae6be13561cec758d25fa7adac89e67a1f33a</value>
+        <type>sha1</type>
+        <id>4411</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>73366c1eb26b92886531586728be4975d56f7ca5</value>
+        <type>sha1</type>
+        <id>4412</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>5c5ec0b5112a74a95edc23ef093792eb3698320e</value>
+        <type>sha1</type>
+        <id>4413</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>45ee9aa9f8ef3a9cc0b4b250766e7a9368a30934</value>
+        <type>sha1</type>
+        <id>4414</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a6c18fcbe6b25c370e1305d523b5de662172875b</value>
+        <type>sha1</type>
+        <id>4415</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c16529dbc2987be3ac628b9b413106e5749999ed</value>
+        <type>sha1</type>
+        <id>4416</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e99a03ebe3462d2399f1b819f48384f6714dcba1</value>
+        <type>sha1</type>
+        <id>4417</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f1f1ace3906080cef52ca4948185b665d1d7b13e</value>
+        <type>sha1</type>
+        <id>4418</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6b0b8ad038c7ae2efbad066b8ba22de859b81f98</value>
+        <type>sha1</type>
+        <id>4419</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0ff7ce34841c03c876b141c1f46d0ff2519889cc</value>
+        <type>sha1</type>
+        <id>4420</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>543783df44459a3878ad00ecae47ff077f5efd7b</value>
+        <type>sha1</type>
+        <id>4421</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4800d67ea326e6d037198abd3d95f4ed59449313</value>
+        <type>sha1</type>
+        <id>4422</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6a43ada6a3741892b56b0ef38cdf48df1ace236d</value>
+        <type>sha1</type>
+        <id>4423</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ed14da9b9075bd3281967033c90886fd7d4f14e5</value>
+        <type>sha1</type>
+        <id>4424</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>045867051a6052d1d910abfcb24a7674bcc046ca</value>
+        <type>sha1</type>
+        <id>4425</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b14b9241197c667f00f86d096d71c47d6fa9aca6</value>
+        <type>sha1</type>
+        <id>4426</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3f4a5bf72a15b7a8638655b24eb3359e229b9aea</value>
+        <type>sha1</type>
+        <id>4427</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cb3a83fc24c7b6b0b9d438fbf053276cceaacd2e</value>
+        <type>sha1</type>
+        <id>4428</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>d81b0705d26390eb82188c03644786dd6f1a2a9e</value>
+        <type>sha1</type>
+        <id>4429</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6b631396013ddfd8c946772d3cd4919495298d40</value>
+        <type>sha1</type>
+        <id>4430</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>42e6da9a08802b5ce5d1f754d4567665637b47bc</value>
+        <type>sha1</type>
+        <id>4431</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>333f5acc35ea0206f7d1deadcb94ca6ec9564d02</value>
+        <type>sha1</type>
+        <id>4432</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>34af1909ec77d2c3878724234b9b1e3141c91409</value>
+        <type>sha1</type>
+        <id>4433</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>207be5648c0a2e48be98dc4dc1d5d16944189219</value>
+        <type>sha1</type>
+        <id>4434</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4e3c9d7eb8302739e6931a3b5b605efe8f211e51</value>
+        <type>sha1</type>
+        <id>4435</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>d433f281cf56015941a1c2cb87066ca62ea1db37</value>
+        <type>sha1</type>
+        <id>4436</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>5a199a75411047903b7ba7851bf705ec545f6da9</value>
+        <type>sha1</type>
+        <id>4437</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f54f4e46f5f933a96650ca5123a4c41e115a9f61</value>
+        <type>sha1</type>
+        <id>4438</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ea0cfe60a7b7168c42c0e86e15feb5b0c9674029</value>
+        <type>sha1</type>
+        <id>4439</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>5150174a4d5e5bb0bccc568e82dbb86406487510</value>
+        <type>sha1</type>
+        <id>4440</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>91fd13a6b44e99f7235697ab5fe520d540279741</value>
+        <type>sha1</type>
+        <id>4441</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2b1e7d54723cf9ee2fd133b8f17fa99470d7a51a</value>
+        <type>sha1</type>
+        <id>4442</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c8ae844baea44ec1db172ae9b257dbac04dcbbe7</value>
+        <type>sha1</type>
+        <id>4443</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>16b632b4076a458b6e2087d64a42764d86b5b021</value>
+        <type>sha1</type>
+        <id>4444</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c011552d61ac5a87d95e43b90f2bf13077856def</value>
+        <type>sha1</type>
+        <id>4445</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>416d1035168b99cc8ba7227d4c7c3c6bc1ce169a</value>
+        <type>sha1</type>
+        <id>4446</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>151362502d569b16453e84a2f5d277d8e4e878c2</value>
+        <type>sha1</type>
+        <id>4447</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1c124e1523fcbef25c4f3074b1f8088bcad2230f</value>
+        <type>sha1</type>
+        <id>4448</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8099a40b9ef478ee50c466eb65fe71b247fcf014</value>
+        <type>sha1</type>
+        <id>4449</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1e6b9414fce4277207aab2aa12e4f0842a23f9c1</value>
+        <type>sha1</type>
+        <id>4450</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>87668d14910c1e1bb8bbea0c6363f76e664dcd09</value>
+        <type>sha1</type>
+        <id>4451</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e09f283ade693ff89864f6ec9c2354091fbd186e</value>
+        <type>sha1</type>
+        <id>4452</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2345cd5c112e55ba631dac539c8efab850c536b2</value>
+        <type>sha1</type>
+        <id>4453</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>28a43eac3be1b96c68a1e7463ae91367434a2ac4</value>
+        <type>sha1</type>
+        <id>4454</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>01d3973e1bb46e2b75034736991c567862a11263</value>
+        <type>sha1</type>
+        <id>4455</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>9b56155b82f14000f0ec027f29ff20e6ae5205c2</value>
+        <type>sha1</type>
+        <id>4456</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bdd2bae83c3bab9ba0c199492fe57e70c6425dd3</value>
+        <type>sha1</type>
+        <id>4457</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a3653091334892cf97a55715c7555c8881230bc4</value>
+        <type>sha1</type>
+        <id>4458</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3ed561786ca07c8e9862f4f682c1828a039d6dd4</value>
+        <type>sha1</type>
+        <id>4459</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2e27c59f0cf0dbf81466cc63d87d421b33843e87</value>
+        <type>sha1</type>
+        <id>4460</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e4add0b118113b2627143c7ef1d5b1327de395f1</value>
+        <type>sha1</type>
+        <id>4461</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f2ffc4e1d5faec0b7c03a233524bb78e44f0e50b</value>
+        <type>sha1</type>
+        <id>4462</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6b0721a9ced806076f84e828d9c65504a77d106c</value>
+        <type>sha1</type>
+        <id>4463</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6db1151eeb4339fc72d6d094e2d6c2572de89470</value>
+        <type>sha1</type>
+        <id>4464</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0d78d1690d2db2ee322ca11b82d79c758a901ebc</value>
+        <type>sha1</type>
+        <id>4465</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>5acaea49540635670036dc626503431b5a783b56</value>
+        <type>sha1</type>
+        <id>4466</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>02f55947402689ec755356ab6b0345a592446da7</value>
+        <type>sha1</type>
+        <id>4467</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c39d0b12bb1c25cf46a5ae6b197a59f8ea90caa0</value>
+        <type>sha1</type>
+        <id>4468</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a4e39298866b72e5399d5177f717c46861d8d3df</value>
+        <type>sha1</type>
+        <id>4469</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ad9734b05973a0a0f1d34a32cd1936e66898c034</value>
+        <type>sha1</type>
+        <id>4470</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bfe26837da22f21451f0416aa9d241f98ff1c0f8</value>
+        <type>sha1</type>
+        <id>4471</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0653a8f06b140f4fac44acb3be723d7bb2602558</value>
+        <type>sha1</type>
+        <id>4472</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>47f26990d063c947debbde0e10bd267fb0f32719</value>
+        <type>sha1</type>
+        <id>4473</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e95e2c166be39a4d9cd671531b376b1a8ceb4a55</value>
+        <type>sha1</type>
+        <id>4474</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e7720ab728cb18ea329c7dd7c9b7408e266c986b</value>
+        <type>sha1</type>
+        <id>4475</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>36b969c1b3c46953077e4aabb75be8cc6aa6a327</value>
+        <type>sha1</type>
+        <id>4476</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2a13ae3806de8e2c7adba6465c4b2a7bb347f0f5</value>
+        <type>sha1</type>
+        <id>4477</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bb71254fbd41855e8e70f05231ce77fee6f00388</value>
+        <type>sha1</type>
+        <id>4478</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4b4841ca3f05879ca0dab0659b07fc93a780f9f1</value>
+        <type>sha1</type>
+        <id>4479</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>88b7ead7c0bf8b3d8a54b4a9c8871f44d1577ce7</value>
+        <type>sha1</type>
+        <id>4480</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4fd46c30fb1b6f5431c12a38430d684ed1ff5a75</value>
+        <type>sha1</type>
+        <id>4481</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e76da232ec020d133530fdd52ffcc38b7c1d7662</value>
+        <type>sha1</type>
+        <id>4482</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7b3652f8d51bf74174e1e5364dbbf901a2ebcba1</value>
+        <type>sha1</type>
+        <id>4483</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b491c14d8cfb48636f6095b7b16555e9a575d57f</value>
+        <type>sha1</type>
+        <id>4484</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>aa7cf4f1269fa7bca784a18e5cecab962b901cc2</value>
+        <type>sha1</type>
+        <id>4485</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c1e229219e84203ba9e26f2917bd268656ff4716</value>
+        <type>sha1</type>
+        <id>4486</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e60d36efd6b307bef4f18e31e7932a711106cd44</value>
+        <type>sha1</type>
+        <id>4487</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>03661a5e2352a797233c23883b25bb652f03f205</value>
+        <type>sha1</type>
+        <id>4488</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3459d9c27c31c0e8b2ea5b21fdc200e784c7edf4</value>
+        <type>sha1</type>
+        <id>4489</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>524aaf596dc12b1bb479cd69c620914fd4c3f9c9</value>
+        <type>sha1</type>
+        <id>4490</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>764add69922342b8c4200d64652fbee1376adf1c</value>
+        <type>sha1</type>
+        <id>4491</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>03c5690728b7dffb2f4ab947fe390264751428aa</value>
+        <type>sha1</type>
+        <id>4492</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>322e042cf1cb43a8072c4a4cbf6e37004a88d6f7</value>
+        <type>sha1</type>
+        <id>4493</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>9090de286ce9126e8e9c1c3a175a70ab4656ca09</value>
+        <type>sha1</type>
+        <id>4494</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>efcb9be7bf162980187237bcb50f4da2d55430c2</value>
+        <type>sha1</type>
+        <id>4495</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bf265227f9a8e22ea1c0035ac4d2449ceed43e2b</value>
+        <type>sha1</type>
+        <id>4496</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>17df96e423320ddfb7664413bf562a6b1aaef9d4</value>
+        <type>sha1</type>
+        <id>4497</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c17ad20e3790ba674e3fe6f01b9c10270bf0f0e4</value>
+        <type>sha1</type>
+        <id>4498</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7803f160af428bcfb4b9ea2aba07886f232cde4e</value>
+        <type>sha1</type>
+        <id>4499</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>42dbfbedd813e6dbea1398323f085a88fa014293</value>
+        <type>sha1</type>
+        <id>4500</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>797b3101b9352be812b8d411179ae765e14065a6</value>
+        <type>sha1</type>
+        <id>4501</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c6472898e9085e563cd56baeb6b6e21928c5486d</value>
+        <type>sha1</type>
+        <id>4502</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bbe24aa5e554002f8fd092fc5af7747931307a15</value>
+        <type>sha1</type>
+        <id>4503</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>93d53be2c3e7961bc01e0bfa5065a2390305268c</value>
+        <type>sha1</type>
+        <id>4504</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ad2cac618ab9d9d4a16a2db32410607bbf98ce8f</value>
+        <type>sha1</type>
+        <id>4505</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>634a1649995309b9c7d163af627f7e39f42d5968</value>
+        <type>sha1</type>
+        <id>4506</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>52164782fc9f8a2a6c4be2b9cd000e4a60a860ed</value>
+        <type>sha1</type>
+        <id>4507</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3bf6b0d49b8e594f8b59eec98942e1380e16dd22</value>
+        <type>sha1</type>
+        <id>4508</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>383fc3c218b9fb0d4224d69af66caf09869b4c73</value>
+        <type>sha1</type>
+        <id>4509</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a10f2dc5dbdbf1a11ebe4c3e59a4c0e5d14bcc8a</value>
+        <type>sha1</type>
+        <id>4510</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cdcfac3e9d60aae54586b30fa5b99f180839deed</value>
+        <type>sha1</type>
+        <id>4511</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c6d3dac500de2f46e56611c13c589e037e4ca5e0</value>
+        <type>sha1</type>
+        <id>4512</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1e5c6d3f64295cb36d364f7fa183177a3f5e6b7e</value>
+        <type>sha1</type>
+        <id>4513</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>42429d0c0cade08cfe4f72dcd77892b883e8a4bc</value>
+        <type>sha1</type>
+        <id>4514</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>63aedcd38fe947404dda4fbaddb1da539d632417</value>
+        <type>sha1</type>
+        <id>4515</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f2b4b1605360d7f4e0c47932e555b36707f287be</value>
+        <type>sha1</type>
+        <id>4516</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e0779ac6e5cc76e91fca71efeade2a5d7f099c80</value>
+        <type>sha1</type>
+        <id>4517</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>31ab6830f4e39c2c520ae55d4c4bffe0b347c947</value>
+        <type>sha1</type>
+        <id>4518</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>658db78c0ce62e08e86b51988a222b5fb5fbb913</value>
+        <type>sha1</type>
+        <id>4519</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ecd2feb0afd5614d7575598c63d9b0146a67ecaa</value>
+        <type>sha1</type>
+        <id>4520</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ccf83cd713e0f078697f9e842a06d624f8b9757e</value>
+        <type>sha1</type>
+        <id>4521</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cce5b3a2965c500de8fa75e1429b8be5aa744e14</value>
+        <type>sha1</type>
+        <id>4522</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4aaac99607013b21863728b9453e4ffee67b902e</value>
+        <type>sha1</type>
+        <id>4523</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b54b3c67f1827dab4cc2b3de94ff0af4e5db3d4c</value>
+        <type>sha1</type>
+        <id>4524</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>18d983ba09da695ce704ab8093296366b543996a</value>
+        <type>sha1</type>
+        <id>4525</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6b3b42f584b6dc1e0a7b0e0c389f1fbe040968aa</value>
+        <type>sha1</type>
+        <id>4526</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bf9d3a45273608caf90084c1157de2074322a230</value>
+        <type>sha1</type>
+        <id>4527</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1a31245e943b131d81375d70b489d8e4bf3d6dce</value>
+        <type>sha1</type>
+        <id>4528</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f62600984c5086f2da3d70bc1f5042cf464f928d</value>
+        <type>sha1</type>
+        <id>4529</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>9796d22994ff4b4e838079d2e5613e7ac425dd1d</value>
+        <type>sha1</type>
+        <id>4530</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>5ccff14ce7c1732fadfe74af95a912093007357f</value>
+        <type>sha1</type>
+        <id>4531</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f621ec1b363e13dd60474fcfab374b8570ede4de</value>
+        <type>sha1</type>
+        <id>4532</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>353540c6619f2bba2351babad736599811d3392e</value>
+        <type>sha1</type>
+        <id>4533</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7b8851f98f765038f275489c69a485e1bed4f82d</value>
+        <type>sha1</type>
+        <id>4534</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a421e0758f1007527fec4d72fa2668da340554c9</value>
+        <type>sha1</type>
+        <id>4535</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7efd300efed0a42c7d1f568e309c45b2b641f5c2</value>
+        <type>sha1</type>
+        <id>4536</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>145c5081037fad98fa72aa4d6dc6c193fdb1c127</value>
+        <type>sha1</type>
+        <id>4537</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2ceae0f5f3efe366ebded0a413e5ea264fbf2a33</value>
+        <type>sha1</type>
+        <id>4538</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>118114446847ead7a2fe87ecb4943fdbdd2bbd1e</value>
+        <type>sha1</type>
+        <id>4539</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>d7f7aef824265136ad077ae4f874d265ae45a6b0</value>
+        <type>sha1</type>
+        <id>4540</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2f156a9f861cda356c4ddf332d71937ac9962c68</value>
+        <type>sha1</type>
+        <id>4541</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>541816260c71535cfebc743b9e2770a3a601acdf</value>
+        <type>sha1</type>
+        <id>4542</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c2b5aff3435a7241637f288fedef722541c4dad8</value>
+        <type>sha1</type>
+        <id>4543</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>683104d28bd5c52c53d2e6c710a7bd19676c28b8</value>
+        <type>sha1</type>
+        <id>4544</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6483ed51bd244c7b2cf97db62602b19c27fa3059</value>
+        <type>sha1</type>
+        <id>4545</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7e9eb570ef07b793828c28ca3f84177e1ab76e14</value>
+        <type>sha1</type>
+        <id>4546</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b27f6174173e71dc154413a525baddf3d6dea1fd</value>
+        <type>sha1</type>
+        <id>4547</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1ce049522c4df595a1c4c9e9ca24be72dc5c6b28</value>
+        <type>sha1</type>
+        <id>4548</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>482d1624f9450ca1c99926ceec2606260e7ce544</value>
+        <type>sha1</type>
+        <id>4549</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0c8db6542172de98fa16c9bacfef9ed4099fd872</value>
+        <type>sha1</type>
+        <id>4550</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2d74a4efaecd0d23afcad02118e00c08e17996ed</value>
+        <type>sha1</type>
+        <id>4551</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f97c5e8d018207b1d546501fe2036adfbf774cfd</value>
+        <type>sha1</type>
+        <id>4552</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>223c7eb7b9dde08ee028bba6552409ee144db54a</value>
+        <type>sha1</type>
+        <id>4553</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>296fd4c5b4bf8ea288f45b4801512d7dec7c497b</value>
+        <type>sha1</type>
+        <id>4554</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>74bc93107b1bbae2d98fca6d819c2f0bbe8c9f8a</value>
+        <type>sha1</type>
+        <id>4555</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>edf74413a6e2763147184b5e1b8732537a854365</value>
+        <type>sha1</type>
+        <id>4556</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6a3c2ad9919ad09ef6cdffc80940286814a0aa2c</value>
+        <type>sha1</type>
+        <id>4557</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>32b0c8c46f8baaba0159967c5602f58dd73ebde9</value>
+        <type>sha1</type>
+        <id>4558</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>694fa03160d50865dce0c35227dc97ffa1acfa48</value>
+        <type>sha1</type>
+        <id>4559</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>61283ef203f4286f1d366a57e077b0a581be1659</value>
+        <type>sha1</type>
+        <id>4560</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ccb29875222527af4e58b9dd8994c3c7ef617fd8</value>
+        <type>sha1</type>
+        <id>4561</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>25e0af331b8e9fed64dc0df71a2687be348100e8</value>
+        <type>sha1</type>
+        <id>4562</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>d22d80da6f042c4da3392a69c713ee4d64be8bc8</value>
+        <type>sha1</type>
+        <id>4563</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>580eca9e36dcd1a2deb9075bcae90afee46aace2</value>
+        <type>sha1</type>
+        <id>4564</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>155004c1cc831a7f39caf2bec04f1841b61af802</value>
+        <type>sha1</type>
+        <id>4565</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1e5f6a5624a9e5472d547b8aa54c6d146813f91d</value>
+        <type>sha1</type>
+        <id>4566</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8aa9f5d426428ec360229f4cb9f722388f0e535c</value>
+        <type>sha1</type>
+        <id>4567</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a74eceea45207a6b46f461d436b73314b2065756</value>
+        <type>sha1</type>
+        <id>4568</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>93ee1c714fad9cc1bf2cba19f3de9d1e83c665e2</value>
+        <type>sha1</type>
+        <id>4569</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a3dfb5643c824ae0c3ba2b7f3efb266bfbf46b02</value>
+        <type>sha1</type>
+        <id>4570</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a75995f94854dea8799650a2f4a97980b71199d2</value>
+        <type>sha1</type>
+        <id>4571</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7d871a2d467474178893cd017e4e3e04e589c9a0</value>
+        <type>sha1</type>
+        <id>4572</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e78870f3807a89684085d605dcd57a06e7327125</value>
+        <type>sha1</type>
+        <id>4573</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cd7116fc6a5fa170690590e161c7589d502bd6a7</value>
+        <type>sha1</type>
+        <id>4574</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>5b2c4da743798bde4158848a8a44094703e842cb</value>
+        <type>sha1</type>
+        <id>4575</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>00852745cb40730dc333124549a768b471dff4bc</value>
+        <type>sha1</type>
+        <id>4576</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fdc65f38f458ceddf5a5e3f4b44df7337a1fb415</value>
+        <type>sha1</type>
+        <id>4577</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0d8f41fe09dbd75ab953f9e64a6cdbbbc198bf2b</value>
+        <type>sha1</type>
+        <id>4578</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a9e529c7b04a99019dd31c3c0d7f576e1bbd0970</value>
+        <type>sha1</type>
+        <id>4579</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8ab7f806fa18dd9a9c2dc43db0ad3ee79060b6e8</value>
+        <type>sha1</type>
+        <id>4580</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a32817e9ff07bc69974221d9b7a9b980fa80b677</value>
+        <type>sha1</type>
+        <id>4581</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>01e5080b832c6e4fcb7b9d06caffe03dab8d95da</value>
+        <type>sha1</type>
+        <id>4582</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>285ac0fb341e57c87964282f621b3d1f018ab7ea</value>
+        <type>sha1</type>
+        <id>4583</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6e00b86a2480abc6dbd971c0bf6495d81ed1b629</value>
+        <type>sha1</type>
+        <id>4584</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>84ba6b6a0a3999c0932f35298948f149ee05bc02</value>
+        <type>sha1</type>
+        <id>4585</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>317bde14307d8777d613280546f47dd0ce54f95b</value>
+        <type>sha1</type>
+        <id>4586</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>15c75472f160f082f6905d57a98de94c026e2c56</value>
+        <type>sha1</type>
+        <id>4587</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f33c980d4b6aaab1dc401226ab452ce840ad4f40</value>
+        <type>sha1</type>
+        <id>4588</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>78d1c1e11ebae22849bccb3eb154ec986d992364</value>
+        <type>sha1</type>
+        <id>4589</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fdfd9abbaafe0bee747c0f1d7963d903174359df</value>
+        <type>sha1</type>
+        <id>4590</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>807c3db7385972a78b6d217a379dab67e68a3cf5</value>
+        <type>sha1</type>
+        <id>4591</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>493d0660c9cf738be08209bfd56351d4cf075877</value>
+        <type>sha1</type>
+        <id>4592</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3980f0e3fe80b2e7378325ab64ecbe725ae5eca9</value>
+        <type>sha1</type>
+        <id>4593</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0e5f55676e01d8e41d77cdc43489da8381b68086</value>
+        <type>sha1</type>
+        <id>4594</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cd50170a70b9cc767aa4b21a150c136cb25fbd44</value>
+        <type>sha1</type>
+        <id>4595</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1e200fbb02dc4a51ea3ede0b6d1ff9004f07fe73</value>
+        <type>sha1</type>
+        <id>4596</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>43fa0d5a30b4cd72bb7e156c00c1611bb4f4bd0a</value>
+        <type>sha1</type>
+        <id>4597</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cbca642acdb9f6df1b3efef0af8e675e32bd71d1</value>
+        <type>sha1</type>
+        <id>4598</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c59114c79e3d3ddd77d6919b88bc99d40205e645</value>
+        <type>sha1</type>
+        <id>4599</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>926046f0c727358d1a6fbdd6ff3e28bc67d5e2f6</value>
+        <type>sha1</type>
+        <id>4600</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>23e20c523b9970686d913360d438c88e6067c157</value>
+        <type>sha1</type>
+        <id>4601</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4a9875f646c5410f8317191ef2a91f934ce76f57</value>
+        <type>sha1</type>
+        <id>4602</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b3873d2c969d224b0fd17b5f886ea253ac1bfb5b</value>
+        <type>sha1</type>
+        <id>4603</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8b357ff017df3ed882b278d0dbbdf129235d123d</value>
+        <type>sha1</type>
+        <id>4604</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>446daabb7ac2b9f11dc1267fbd192628cc2bac19</value>
+        <type>sha1</type>
+        <id>4605</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>55f83ff166ab8978d6ce38e80fde858cf29e660b</value>
+        <type>sha1</type>
+        <id>4606</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8c3ed0bbdc77aec299c77f666c21659840f5ce23</value>
+        <type>sha1</type>
+        <id>4607</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>78e9960cc5819583fb98fb619b33bff7768ee861</value>
+        <type>sha1</type>
+        <id>4608</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e519198de4cc8bcb0644aa1ab6552b1d15c99a0e</value>
+        <type>sha1</type>
+        <id>4609</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cc3df7de75db8be4a0a30ede21f226122d2dfe87</value>
+        <type>sha1</type>
+        <id>4610</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>53140342b8fe2dd7661fce0d0e88d909f55099db</value>
+        <type>sha1</type>
+        <id>4611</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4fbc518df60df395ea27224cb85c4da2ff327e98</value>
+        <type>sha1</type>
+        <id>4612</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>65681390d203871e9c21c68075dbf38944e782e8</value>
+        <type>sha1</type>
+        <id>4613</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a2ed0eaaeadaa90d25f8b1da23033593bb76598e</value>
+        <type>sha1</type>
+        <id>4614</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fbf290f6adad79ae9628ec6d5703e5ffb86cf8f1</value>
+        <type>sha1</type>
+        <id>4615</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>9f5b46ee0591d3f942ccaa9c950a8bff94aa7a0f</value>
+        <type>sha1</type>
+        <id>4616</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>49fb759d133eeaab3fcc78cec64418e44ed649ab</value>
+        <type>sha1</type>
+        <id>4617</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>44403a3e51e337c1372b0becdab74313125452c7</value>
+        <type>sha1</type>
+        <id>4618</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>9a277a63e41d32d9af3eddea1710056be0d42347</value>
+        <type>sha1</type>
+        <id>4619</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>174373ab44cf6e7355f9dbb8469453519cb61a44</value>
+        <type>sha1</type>
+        <id>4620</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fecdba1d903a51499a3953b4df1d850fbd5438bd</value>
+        <type>sha1</type>
+        <id>4621</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>04aefbf1527536159d72d20dea907cbd080793e3</value>
+        <type>sha1</type>
+        <id>4622</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>332aac7bdb0f697fd96e35c31c54d15e548061f4</value>
+        <type>sha1</type>
+        <id>4623</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f7d47c38eca7ec68aa478c06b1ba983d9bf02e15</value>
+        <type>sha1</type>
+        <id>4624</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1df78a1dc0aa3382fcc6fac172b70aafd0ed8d3d</value>
+        <type>sha1</type>
+        <id>4625</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a81b58b2171c6a728039dc493faaf2cab7d146a5</value>
+        <type>sha1</type>
+        <id>4626</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>eb851adfada7b40fc4f6c0ae348694500f878493</value>
+        <type>sha1</type>
+        <id>4627</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>558f1d400be521f8286b6a51f56d362d64278132</value>
+        <type>sha1</type>
+        <id>4628</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>365f61c7886ca82bfdf8ee19ce0f92c4f7d0901e</value>
+        <type>sha1</type>
+        <id>4629</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1ba5bcd62abcbff517a4adb2609f721dd7f609df</value>
+        <type>sha1</type>
+        <id>4630</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2f53bfcd2016d506674d0a05852318f9e8188ee1</value>
+        <type>sha1</type>
+        <id>4631</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1e770f2a17664e7d7687c53860b1c0dc0da7157e</value>
+        <type>sha1</type>
+        <id>4632</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cc15924d37e36060faa405e5fa8f6ca15a3cace2</value>
+        <type>sha1</type>
+        <id>4633</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>443</id>
+    <date>2011-02-01</date>
+    <info>w32_stuxnet_dossier.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>w32_stuxnet_dossier.pdf</value>
+        <type>comment</type>
+        <id>5458</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ccprojectmgr.exe</value>
+        <type>filename</type>
+        <id>5459</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>avp.exe</value>
+        <type>filename</type>
+        <id>5460</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>winsta.exe</value>
+        <type>filename</type>
+        <id>5461</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1.zip</value>
+        <type>filename</type>
+        <id>5462</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fsdfwd.exe</value>
+        <type>filename</type>
+        <id>5463</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>msvcrt.dll</value>
+        <type>filename</type>
+        <id>5464</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>shell32.dll</value>
+        <type>filename</type>
+        <id>5465</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.mypremierfutbol.com</value>
+        <type>url</type>
+        <id>5466</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>explorer.exe</value>
+        <type>filename</type>
+        <id>5467</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>s7otbxsx.dll</value>
+        <type>filename</type>
+        <id>5468</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>tmpproxy.exe</value>
+        <type>filename</type>
+        <id>5469</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>s7otbldx.dll</value>
+        <type>filename</type>
+        <id>5470</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>mfc42.dll</value>
+        <type>filename</type>
+        <id>5471</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>iexplore.exe</value>
+        <type>filename</type>
+        <id>5472</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>CVE-2010-2568</value>
+        <type>vulnerability</type>
+        <id>5473</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Svchost.exe</value>
+        <type>filename</type>
+        <id>5474</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>UmxCfg.exe</value>
+        <type>filename</type>
+        <id>5475</id>
+      </item>
+      <item>
+        <category>Artifacts dropped</category>
+        <comment/>
+        <value>b:\myrtus\src\objfre_w2k_x86\i386 \guava.pdb</value>
+        <type>pdb</type>
+        <id>5476</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>rtvscan.exe</value>
+        <type>filename</type>
+        <id>5477</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Winlogon.exe</value>
+        <type>filename</type>
+        <id>5478</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>kernel32.dll</value>
+        <type>filename</type>
+        <id>5479</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bdagent.exe</value>
+        <type>filename</type>
+        <id>5480</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>s7otbxdx.dll</value>
+        <type>filename</type>
+        <id>5481</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>lsass.exe</value>
+        <type>filename</type>
+        <id>5482</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>s7tgtopx.exe</value>
+        <type>filename</type>
+        <id>5483</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>avguard.exe</value>
+        <type>filename</type>
+        <id>5484</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ccSvcHst.exe</value>
+        <type>filename</type>
+        <id>5485</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>xyz.dll</value>
+        <type>filename</type>
+        <id>5486</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.todaysfutbol.com</value>
+        <type>url</type>
+        <id>5487</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>s7apromx.dll</value>
+        <type>filename</type>
+        <id>5488</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Netapi32.dll</value>
+        <type>filename</type>
+        <id>5489</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>csrss.exe</value>
+        <type>filename</type>
+        <id>5490</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Ntdll.dll</value>
+        <type>filename</type>
+        <id>5491</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>services.exe</value>
+        <type>filename</type>
+        <id>5492</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Mcshield.exe</value>
+        <type>filename</type>
+        <id>5493</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ccrtsloader.exe</value>
+        <type>filename</type>
+        <id>5494</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ekrn.exe</value>
+        <type>filename</type>
+        <id>5495</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>448</id>
+    <date>2011-02-10</date>
+    <info>wp-global-energy-cyberattacks-night-dragon.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>wp-global-energy-cyberattacks-night-dragon.pdf</value>
+        <type>comment</type>
+        <id>5519</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>server.exe</value>
+        <type>filename</type>
+        <id>5520</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>Rootkin.net.cn</value>
+        <type>url</type>
+        <id>5521</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>PluginService.dll</value>
+        <type>filename</type>
+        <id>5522</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>PluginScreen.dll</value>
+        <type>filename</type>
+        <id>5523</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>PluginKeyboard.dll</value>
+        <type>filename</type>
+        <id>5524</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>thruhere.net</value>
+        <type>url</type>
+        <id>5525</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.hackingexposed.com</value>
+        <type>url</type>
+        <id>5526</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>virus_research@avertlabs.com</value>
+        <type>email-src</type>
+        <id>5527</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>startup.dll</value>
+        <type>filename</type>
+        <id>5528</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>incidentresponse@foundstone.com</value>
+        <type>email-src</type>
+        <id>5529</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>office-on-the.net</value>
+        <type>url</type>
+        <id>5530</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>PluginProcess.dll</value>
+        <type>filename</type>
+        <id>5531</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>virus_research@mcafee.com</value>
+        <type>email-src</type>
+        <id>5532</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>svchost.exe</value>
+        <type>filename</type>
+        <id>5533</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>connect.dll</value>
+        <type>filename</type>
+        <id>5534</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>avertlabs.com</value>
+        <type>url</type>
+        <id>5535</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.webimmune.net</value>
+        <type>url</type>
+        <id>5536</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>PluginFile.dll</value>
+        <type>filename</type>
+        <id>5537</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>is-a-chef.com</value>
+        <type>url</type>
+        <id>5538</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>zwShell.exe</value>
+        <type>filename</type>
+        <id>5539</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>PluginCmd.dll</value>
+        <type>filename</type>
+        <id>5540</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>selfip.com</value>
+        <type>url</type>
+        <id>5541</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>foundstone.com</value>
+        <type>url</type>
+        <id>5542</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>PluginRegedit.dll</value>
+        <type>filename</type>
+        <id>5543</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>on-the.net</value>
+        <type>url</type>
+        <id>5544</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>093640a69c8eafbc60343bf9cd1d3ad3</value>
+        <type>md5</type>
+        <id>5545</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6e31cca77255f9cde228a2db9e2a3855</value>
+        <type>md5</type>
+        <id>5546</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>85df6b3e2c1a4c6ce20fc8080e0b53e9</value>
+        <type>md5</type>
+        <id>5547</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a6cba73405c77fedeaf4722ad7d35d60</value>
+        <type>md5</type>
+        <id>5548</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>85</id>
+    <date>2011-06-01</date>
+    <info>C5_APT_ADecadeInReview.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>C5_APT_ADecadeInReview.pdf</value>
+        <type>comment</type>
+        <id>1528</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>googleblog.blogspot.com</value>
+        <type>url</type>
+        <id>1529</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.openspf.org</value>
+        <type>url</type>
+        <id>1530</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.news.smh.com.au</value>
+        <type>url</type>
+        <id>1531</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>login.skype.com</value>
+        <type>url</type>
+        <id>1532</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.isssource.com</value>
+        <type>url</type>
+        <id>1533</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>net_dossier.pdf</value>
+        <type>filename</type>
+        <id>1534</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>story.blogspot.com</value>
+        <type>url</type>
+        <id>1535</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>blogs.knoxnews.com</value>
+        <type>url</type>
+        <id>1536</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.smh.com.au</value>
+        <type>url</type>
+        <id>1537</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.scribd.com</value>
+        <type>url</type>
+        <id>1538</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.ornl.gov</value>
+        <type>url</type>
+        <id>1539</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.knoxnews.com</value>
+        <type>url</type>
+        <id>1540</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.lockheedmartin.com</value>
+        <type>url</type>
+        <id>1541</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>dragon.pdf</value>
+        <type>filename</type>
+        <id>1542</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.straightsectalk.com</value>
+        <type>url</type>
+        <id>1543</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.foxnews.com</value>
+        <type>url</type>
+        <id>1544</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.veracode.com</value>
+        <type>url</type>
+        <id>1545</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.hanford.gov</value>
+        <type>url</type>
+        <id>1546</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.cl.cam.ac.uk</value>
+        <type>url</type>
+        <id>1547</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.europe1.fr</value>
+        <type>url</type>
+        <id>1548</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.canada.com</value>
+        <type>url</type>
+        <id>1549</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.pbs.org</value>
+        <type>url</type>
+        <id>1550</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.dailytelegraph.com.au</value>
+        <type>url</type>
+        <id>1551</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.channelregister.co.uk</value>
+        <type>url</type>
+        <id>1552</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>news.theage.com.au</value>
+        <type>url</type>
+        <id>1553</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.pcauthority.com.au</value>
+        <type>url</type>
+        <id>1554</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>391</id>
+    <date>2011-08-03</date>
+    <info>HTran_and_the_Advanced_Persistent_Threat.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>HTran_and_the_Advanced_Persistent_Threat.pdf</value>
+        <type>comment</type>
+        <id>4831</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>special.earthsolution.org</value>
+        <type>url</type>
+        <id>4832</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ou3.infosupports.com</value>
+        <type>url</type>
+        <id>4833</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>itiupdated.dyndns.info</value>
+        <type>url</type>
+        <id>4834</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>news.scitence.net</value>
+        <type>url</type>
+        <id>4835</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mantech.blackcake.net</value>
+        <type>url</type>
+        <id>4836</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>leets.hugesoft.org</value>
+        <type>url</type>
+        <id>4837</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>220.110.70.51</value>
+        <type>ip-src</type>
+        <id>4838</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mailsrv.scitence.net</value>
+        <type>url</type>
+        <id>4839</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ou2.infosupports.com</value>
+        <type>url</type>
+        <id>4840</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>visual.earthsolution.org</value>
+        <type>url</type>
+        <id>4841</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>123.120.126.73</value>
+        <type>ip-src</type>
+        <id>4842</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ug-aa.hugesoft.org</value>
+        <type>url</type>
+        <id>4843</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>quick.earthsolution.org</value>
+        <type>url</type>
+        <id>4844</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>12.38.236.41</value>
+        <type>ip-src</type>
+        <id>4845</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>news.businessconsults.net</value>
+        <type>url</type>
+        <id>4846</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>lucy.blackcake.net</value>
+        <type>url</type>
+        <id>4847</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>srs.infosupports.com</value>
+        <type>url</type>
+        <id>4848</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>epaserver.toythieves.com</value>
+        <type>url</type>
+        <id>4849</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>112.64.214.174</value>
+        <type>ip-src</type>
+        <id>4850</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>catalog.earthsolution.org</value>
+        <type>url</type>
+        <id>4851</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>news.billten.net</value>
+        <type>url</type>
+        <id>4852</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>223.167.5.254</value>
+        <type>ip-src</type>
+        <id>4853</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>bah001.blackcake.net</value>
+        <type>url</type>
+        <id>4854</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www2.wikaba.com</value>
+        <type>url</type>
+        <id>4855</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>trb.arrowservice.net</value>
+        <type>url</type>
+        <id>4856</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>info.helpngr.net</value>
+        <type>url</type>
+        <id>4857</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>125.215.189.114</value>
+        <type>ip-src</type>
+        <id>4858</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>news.india-videoer.com</value>
+        <type>url</type>
+        <id>4859</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>443inter.earthsolution.org</value>
+        <type>url</type>
+        <id>4860</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>seoulsummit.ddns.ms</value>
+        <type>url</type>
+        <id>4861</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>112.65.87.58</value>
+        <type>ip-src</type>
+        <id>4862</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>info.scitence.net</value>
+        <type>url</type>
+        <id>4863</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.india-videoer.com</value>
+        <type>url</type>
+        <id>4864</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>timeforbeat.ns01.us</value>
+        <type>url</type>
+        <id>4865</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>lucy2.businessconsults.net</value>
+        <type>url</type>
+        <id>4866</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>info.dcfrr.com</value>
+        <type>url</type>
+        <id>4867</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>pop.businessconsults.net</value>
+        <type>url</type>
+        <id>4868</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>db.billten.net</value>
+        <type>url</type>
+        <id>4869</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>quiet.earthsolution.org</value>
+        <type>url</type>
+        <id>4870</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>lucy2.infosupports.com</value>
+        <type>url</type>
+        <id>4871</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>112.64.213.249</value>
+        <type>ip-src</type>
+        <id>4872</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>techniq.whandjg.net</value>
+        <type>url</type>
+        <id>4873</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>qiao3.bigdepression.net</value>
+        <type>url</type>
+        <id>4874</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>san.www1.biz</value>
+        <type>url</type>
+        <id>4875</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>create301.dyndns.info</value>
+        <type>url</type>
+        <id>4876</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>java.earthsolution.org</value>
+        <type>url</type>
+        <id>4877</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ou7.infosupports.com</value>
+        <type>url</type>
+        <id>4878</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>72.167.34.54</value>
+        <type>ip-src</type>
+        <id>4879</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>conn.gxdet.com</value>
+        <type>url</type>
+        <id>4880</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>caci2.infosupports.com</value>
+        <type>url</type>
+        <id>4881</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.optimizon.com</value>
+        <type>url</type>
+        <id>4882</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>info.businessconsults.net</value>
+        <type>url</type>
+        <id>4883</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>info.billten.net</value>
+        <type>url</type>
+        <id>4884</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>qiao2.bigdepression.net</value>
+        <type>url</type>
+        <id>4885</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>sysinfo.mynumber.org</value>
+        <type>url</type>
+        <id>4886</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ghma.earthsolution.org</value>
+        <type>url</type>
+        <id>4887</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>123.120.127.146</value>
+        <type>ip-src</type>
+        <id>4888</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>read.pudn.com</value>
+        <type>url</type>
+        <id>4889</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>qiao1.bigdepression.net</value>
+        <type>url</type>
+        <id>4890</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>123.120.117.98</value>
+        <type>ip-src</type>
+        <id>4891</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mail.new-soho.com</value>
+        <type>url</type>
+        <id>4892</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>hapyy2010.lflinkup.net</value>
+        <type>url</type>
+        <id>4893</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.cpear.ddns.us</value>
+        <type>url</type>
+        <id>4894</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>epod.businessconsults.net</value>
+        <type>url</type>
+        <id>4895</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>sys.businessconsults.net</value>
+        <type>url</type>
+        <id>4896</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>60.249.150.162</value>
+        <type>ip-src</type>
+        <id>4897</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>slnoa.newsonet.net</value>
+        <type>url</type>
+        <id>4898</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>my.amazingrm.com</value>
+        <type>url</type>
+        <id>4899</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>webmail.whandjg.net</value>
+        <type>url</type>
+        <id>4900</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>lucy.businessconsults.net</value>
+        <type>url</type>
+        <id>4901</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>argentinia.faqserv.com</value>
+        <type>url</type>
+        <id>4902</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>rouji.freespirit.acmetoy.com</value>
+        <type>url</type>
+        <id>4903</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mailserver.instanthq.com</value>
+        <type>url</type>
+        <id>4904</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>vope.purpledaily.com</value>
+        <type>url</type>
+        <id>4905</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>songs.longmusic.com</value>
+        <type>url</type>
+        <id>4906</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>hav.earthsolution.org</value>
+        <type>url</type>
+        <id>4907</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>aar.bigdepression.net</value>
+        <type>url</type>
+        <id>4908</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>info.new-soho.com</value>
+        <type>url</type>
+        <id>4909</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>webmail.dcfrr.com</value>
+        <type>url</type>
+        <id>4910</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>pop.dnsweb.org</value>
+        <type>url</type>
+        <id>4911</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>212.125.200.197</value>
+        <type>ip-src</type>
+        <id>4912</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>qiao5.bigdepression.net</value>
+        <type>url</type>
+        <id>4913</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ddbb.gxdet.com</value>
+        <type>url</type>
+        <id>4914</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>doa.bigdepression.net</value>
+        <type>url</type>
+        <id>4915</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>sos.businessconsults.net</value>
+        <type>url</type>
+        <id>4916</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>58.247.27.232</value>
+        <type>ip-src</type>
+        <id>4917</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>office.lflink.com</value>
+        <type>url</type>
+        <id>4918</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>moiserver.myftp.info</value>
+        <type>url</type>
+        <id>4919</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>223.167.5.10</value>
+        <type>ip-src</type>
+        <id>4920</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>68.96.31.136</value>
+        <type>ip-src</type>
+        <id>4921</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>yang2.infosupports.com</value>
+        <type>url</type>
+        <id>4922</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>sports.businessconsults.net</value>
+        <type>url</type>
+        <id>4923</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>nsweb.hostent.org</value>
+        <type>url</type>
+        <id>4924</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mailserver.sendsmtp.com</value>
+        <type>url</type>
+        <id>4925</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>yang1.infosupports.com</value>
+        <type>url</type>
+        <id>4926</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>qiao4.bigdepression.net</value>
+        <type>url</type>
+        <id>4927</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>223.167.5.250</value>
+        <type>ip-src</type>
+        <id>4928</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>bbs.india-videoer.com</value>
+        <type>url</type>
+        <id>4929</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>58.247.240.91</value>
+        <type>ip-src</type>
+        <id>4930</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>qiao6.bigdepression.net</value>
+        <type>url</type>
+        <id>4931</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ssa.businessconsults.net</value>
+        <type>url</type>
+        <id>4932</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>yahoo2.epac.to</value>
+        <type>url</type>
+        <id>4933</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>vop.earthsolution.org</value>
+        <type>url</type>
+        <id>4934</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mosfdns.ddns.ms</value>
+        <type>url</type>
+        <id>4935</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>gee.safalife.com</value>
+        <type>url</type>
+        <id>4936</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>03557c3e5c87e6a121c58f664b0ebf18</value>
+        <type>md5</type>
+        <id>4937</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7cb055ac3acbf53e07e20b65ec9126a1</value>
+        <type>md5</type>
+        <id>4938</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3a3bf6cab9702d0835e8425f4e9d7a9c</value>
+        <type>md5</type>
+        <id>4939</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>47a76cf2e60960405a492bc7f41b0483</value>
+        <type>md5</type>
+        <id>4940</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8a873136b6e4dd70ff9470288ff99d93</value>
+        <type>md5</type>
+        <id>4941</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ec4d34c742d2d5714c600517f05c2253</value>
+        <type>md5</type>
+        <id>4942</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>855cea7939936e86016a0aedee1d2c24</value>
+        <type>md5</type>
+        <id>4943</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>92e28cec1c82f5d82cbd80c64050c5ca</value>
+        <type>md5</type>
+        <id>4944</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fd4a4ac08f5a7271fbd9b8157d30244e</value>
+        <type>md5</type>
+        <id>4945</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>45a66ae3537488f7d63622ded64461e0</value>
+        <type>md5</type>
+        <id>4946</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bbf4212f979c32eb6bc43bd8ba5996f9</value>
+        <type>md5</type>
+        <id>4947</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>00b9619613bc82f5fe117c2ca394a328</value>
+        <type>md5</type>
+        <id>4948</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cca75af9786d7364866f40b80dddcc5c</value>
+        <type>md5</type>
+        <id>4949</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>51744d77fc8f874934d2715656e1a2df</value>
+        <type>md5</type>
+        <id>4950</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>056310138cb5ed295f0df17ac591173d</value>
+        <type>md5</type>
+        <id>4951</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>53ba6845f57f8e9ef600ef166be3be14</value>
+        <type>md5</type>
+        <id>4952</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c9067c06bb9e8a5304b93687c59e4e15</value>
+        <type>md5</type>
+        <id>4953</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3493fc0e4a76b9d12b68afc46cab7f34</value>
+        <type>md5</type>
+        <id>4954</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1daa3e392d1fea79badfbcd86d765d32</value>
+        <type>md5</type>
+        <id>4955</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>396</id>
+    <date>2011-08-02</date>
+    <info>shady_rat_vanity.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>shady_rat_vanity.pdf</value>
+        <type>comment</type>
+        <id>4985</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>vanityfair.com</value>
+        <type>url</type>
+        <id>4986</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>470</id>
+    <date>2011-08-22</date>
+    <info>wp_dissecting-lurid-apt.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>wp_dissecting-lurid-apt.pdf</value>
+        <type>comment</type>
+        <id>5699</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>help.lasmail.com</value>
+        <type>url</type>
+        <id>5700</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>yandex-pro.com</value>
+        <type>url</type>
+        <id>5701</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>info3.gawab.com</value>
+        <type>url</type>
+        <id>5702</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ghostnet.pdf</value>
+        <type>filename</type>
+        <id>5703</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>184.95.36.75</value>
+        <type>ip-src</type>
+        <id>5704</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>nfal.exe</value>
+        <type>filename</type>
+        <id>5705</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ce-helppane.com</value>
+        <type>url</type>
+        <id>5706</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ce.com</value>
+        <type>url</type>
+        <id>5707</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>press.foxit-pro.com</value>
+        <type>url</type>
+        <id>5708</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.nartv.org</value>
+        <type>url</type>
+        <id>5709</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>SANSFIRE2008-Is_Troy_Burning_Vanhorenbeeck.pdf</value>
+        <type>filename</type>
+        <id>5710</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ipop.dll</value>
+        <type>filename</type>
+        <id>5711</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>bruce_tuner@yahoo.com</value>
+        <type>email-src</type>
+        <id>5712</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>home.mailru-pro.com</value>
+        <type>url</type>
+        <id>5713</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>lh0526w.exe</value>
+        <type>filename</type>
+        <id>5714</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>support.hotoicq.com</value>
+        <type>url</type>
+        <id>5715</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>46.23.67.226</value>
+        <type>ip-src</type>
+        <id>5716</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>184.22.251.12</value>
+        <type>ip-src</type>
+        <id>5717</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>lasmail.com</value>
+        <type>url</type>
+        <id>5718</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>CVE-2009-4324</value>
+        <type>vulnerability</type>
+        <id>5719</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>hotoicq.com</value>
+        <type>url</type>
+        <id>5720</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>163.com</value>
+        <type>url</type>
+        <id>5721</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>isssync.exe</value>
+        <type>filename</type>
+        <id>5722</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>wikileaks.org</value>
+        <type>url</type>
+        <id>5723</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0daydec08.exe</value>
+        <type>filename</type>
+        <id>5724</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>win.foxit-pro.com</value>
+        <type>url</type>
+        <id>5725</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>FLYER_edited-3.pdf</value>
+        <type>filename</type>
+        <id>5726</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>yandex-vip.com</value>
+        <type>url</type>
+        <id>5727</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mailru-pro.com</value>
+        <type>url</type>
+        <id>5728</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0dayjun14.exe</value>
+        <type>filename</type>
+        <id>5729</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>shadows-in-the-cloud.pdf</value>
+        <type>filename</type>
+        <id>5730</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0dayjun09.exe</value>
+        <type>filename</type>
+        <id>5731</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ctfmon.exe</value>
+        <type>filename</type>
+        <id>5732</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>174.139.13.122</value>
+        <type>ip-src</type>
+        <id>5733</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mail.lasmail.com</value>
+        <type>url</type>
+        <id>5734</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>googleblog.blogspot.com</value>
+        <type>url</type>
+        <id>5735</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>update.ymail-vip.com</value>
+        <type>url</type>
+        <id>5736</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>173.212.195.216</value>
+        <type>ip-src</type>
+        <id>5737</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>58.64.149.29</value>
+        <type>ip-src</type>
+        <id>5738</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>mspmsnsr.dll</value>
+        <type>filename</type>
+        <id>5739</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>desp.exe</value>
+        <type>filename</type>
+        <id>5740</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>redhag.com</value>
+        <type>url</type>
+        <id>5741</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>xphlp.ymail-vip.com</value>
+        <type>url</type>
+        <id>5742</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>icqmaster@163.com</value>
+        <type>email-src</type>
+        <id>5743</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>gawab.com</value>
+        <type>url</type>
+        <id>5744</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>setup.mailru-vip.com</value>
+        <type>url</type>
+        <id>5745</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>sexinsex.ymail-vip.com</value>
+        <type>url</type>
+        <id>5746</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>184.22.240.174</value>
+        <type>ip-src</type>
+        <id>5747</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ymail-pro.com</value>
+        <type>url</type>
+        <id>5748</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>LOSAR_FLYER_edited-3.pdf</value>
+        <type>filename</type>
+        <id>5749</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>cablesearch.org</value>
+        <type>url</type>
+        <id>5750</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0dayapr13.exe</value>
+        <type>filename</type>
+        <id>5751</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>lh0517e.exe</value>
+        <type>filename</type>
+        <id>5752</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>targeted_attacks.pdf</value>
+        <type>filename</type>
+        <id>5753</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>zadhc.com</value>
+        <type>url</type>
+        <id>5754</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ymail-vip.com</value>
+        <type>url</type>
+        <id>5755</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>96.46.11.88</value>
+        <type>ip-src</type>
+        <id>5756</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>foxit-pro.com</value>
+        <type>url</type>
+        <id>5757</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1008_Crouching_Powerpoint_Hidden_Trojan_24C3.pdf</value>
+        <type>filename</type>
+        <id>5758</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ace.mailru-vip.com</value>
+        <type>url</type>
+        <id>5759</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>superkiller.mailru-vip.com</value>
+        <type>url</type>
+        <id>5760</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0dayaug12.exe</value>
+        <type>filename</type>
+        <id>5761</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mailru-vip.com</value>
+        <type>url</type>
+        <id>5762</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>emb107@gawab.com</value>
+        <type>email-src</type>
+        <id>5763</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.ldvpn.cn</value>
+        <type>url</type>
+        <id>5764</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>smross.exe</value>
+        <type>filename</type>
+        <id>5765</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>dalailama.com</value>
+        <type>url</type>
+        <id>5766</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>66.220.20.18</value>
+        <type>ip-src</type>
+        <id>5767</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>z10dec09UP.exe</value>
+        <type>filename</type>
+        <id>5768</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>press.ymail-pro.com</value>
+        <type>url</type>
+        <id>5769</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>press.mailru-pro.com</value>
+        <type>url</type>
+        <id>5770</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>hoticq.com</value>
+        <type>url</type>
+        <id>5771</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>ohhdl@dalailama.com</value>
+        <type>email-src</type>
+        <id>5772</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>isc.sans.edu</value>
+        <type>url</type>
+        <id>5773</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ceonline.com</value>
+        <type>url</type>
+        <id>5774</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>963e39d8675b5bb3d2f4e6da45c51bb0</value>
+        <type>md5</type>
+        <id>5775</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f0f31112af491f56af7cc0802ba96c0f</value>
+        <type>md5</type>
+        <id>5776</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>89b98f66650cb29d0926713fda3b5bbc</value>
+        <type>md5</type>
+        <id>5777</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e38ccff8e7fb922fe48b54b4032fec50</value>
+        <type>md5</type>
+        <id>5778</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>e1833932053171da15c60e6c2fca708a</value>
+        <type>md5</type>
+        <id>5779</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>57d99d67c3e8987e812c9332d6774794</value>
+        <type>md5</type>
+        <id>5780</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>744670ca4531f7ceb72a75ae456e8215</value>
+        <type>md5</type>
+        <id>5781</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>84d24967cb5cbacf4052a3001692dd54</value>
+        <type>md5</type>
+        <id>5782</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2a21eb36cc2a0a24149a4821aa328b7b</value>
+        <type>md5</type>
+        <id>5783</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>d8815fe64eb5321add412554908da28a</value>
+        <type>md5</type>
+        <id>5784</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>22caf76a780c54ddce7fa139100fa54e</value>
+        <type>md5</type>
+        <id>5785</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>166d6cd28c9df20c30fed220a3132345</value>
+        <type>md5</type>
+        <id>5786</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>140c69ea9a963100e75497b33820f1da</value>
+        <type>md5</type>
+        <id>5787</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8f65204d8440b7be2b52908e35d19124</value>
+        <type>md5</type>
+        <id>5788</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3447416fbbc65906bd0384d4c2ba479e</value>
+        <type>md5</type>
+        <id>5789</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>74bdabd1077d640f7d21c6cfb14a0348</value>
+        <type>md5</type>
+        <id>5790</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>f993d4cabe5021c96d6a80192f142dca</value>
+        <type>md5</type>
+        <id>5791</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>856de08a947a40e00ea7ed66b8e02c53</value>
+        <type>md5</type>
+        <id>5792</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>93</id>
+    <date>2011-09-11</date>
+    <info>C5_APT_SKHack.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>C5_APT_SKHack.pdf</value>
+        <type>comment</type>
+        <id>1608</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>atalyac.org</value>
+        <type>url</type>
+        <id>1609</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>shell32.dll</value>
+        <type>filename</type>
+        <id>1610</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>61.82.71.30</value>
+        <type>ip-src</type>
+        <id>1611</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>218.213.229.69</value>
+        <type>ip-src</type>
+        <id>1612</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>msvcrt.dll</value>
+        <type>filename</type>
+        <id>1613</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>nprotects.org</value>
+        <type>url</type>
+        <id>1614</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Svchost.exe</value>
+        <type>filename</type>
+        <id>1615</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>userenv.dll</value>
+        <type>filename</type>
+        <id>1616</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>cph.com.tw</value>
+        <type>url</type>
+        <id>1617</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.koreaherald.com</value>
+        <type>url</type>
+        <id>1618</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>nprotect.com</value>
+        <type>url</type>
+        <id>1619</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>kernel32.dll</value>
+        <type>filename</type>
+        <id>1620</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>projectxz.com</value>
+        <type>url</type>
+        <id>1621</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>hack3r.tistory.com</value>
+        <type>url</type>
+        <id>1622</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>mpr.dll</value>
+        <type>filename</type>
+        <id>1623</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>user32.dll</value>
+        <type>filename</type>
+        <id>1624</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>wtsapi32.dll</value>
+        <type>filename</type>
+        <id>1625</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>english.hani.co.kr</value>
+        <type>url</type>
+        <id>1626</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.altools.co.kr</value>
+        <type>url</type>
+        <id>1627</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>tcomoniter.exe</value>
+        <type>filename</type>
+        <id>1628</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>sysprep.exe</value>
+        <type>filename</type>
+        <id>1629</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.cph.com.tw</value>
+        <type>url</type>
+        <id>1630</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>newhose.ntimobile.com</value>
+        <type>url</type>
+        <id>1631</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.samsungidc.com</value>
+        <type>url</type>
+        <id>1632</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>wincard0.dll</value>
+        <type>filename</type>
+        <id>1633</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>222.122.20.241</value>
+        <type>ip-src</type>
+        <id>1634</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>64.74.223.10</value>
+        <type>ip-src</type>
+        <id>1635</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>natefan.com</value>
+        <type>url</type>
+        <id>1636</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>61.19.250.219</value>
+        <type>ip-src</type>
+        <id>1637</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.adv138mail.com</value>
+        <type>url</type>
+        <id>1638</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>40korea.com</value>
+        <type>url</type>
+        <id>1639</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>chost.exe</value>
+        <type>filename</type>
+        <id>1640</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>iphlpapi.dll</value>
+        <type>filename</type>
+        <id>1641</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>bomuls.com</value>
+        <type>url</type>
+        <id>1642</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>98.126.8.230</value>
+        <type>ip-src</type>
+        <id>1643</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>64.74.223.48</value>
+        <type>ip-src</type>
+        <id>1644</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>218.213.229.68</value>
+        <type>ip-src</type>
+        <id>1645</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>odbc32.dll</value>
+        <type>filename</type>
+        <id>1646</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>nprotect.org</value>
+        <type>url</type>
+        <id>1647</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>corp.skcomms.co.kr</value>
+        <type>url</type>
+        <id>1648</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>69.197.132.132</value>
+        <type>ip-src</type>
+        <id>1649</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>x.exe</value>
+        <type>filename</type>
+        <id>1650</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>trendmicros.net</value>
+        <type>url</type>
+        <id>1651</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>download.windowsupdate.co</value>
+        <type>url</type>
+        <id>1652</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>xml.ssdsandbox.net</value>
+        <type>url</type>
+        <id>1653</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>bbs.afbjz.com</value>
+        <type>url</type>
+        <id>1654</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cryptbase.dll</value>
+        <type>filename</type>
+        <id>1655</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>sfc.dll</value>
+        <type>filename</type>
+        <id>1656</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>121.78.237.135</value>
+        <type>ip-src</type>
+        <id>1657</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>update.alyac.org</value>
+        <type>url</type>
+        <id>1658</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>winscard2.exe</value>
+        <type>filename</type>
+        <id>1659</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>malc0de.com</value>
+        <type>url</type>
+        <id>1660</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>psapi.dll</value>
+        <type>filename</type>
+        <id>1661</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>shlwapi.dll</value>
+        <type>filename</type>
+        <id>1662</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>8.5.1.42</value>
+        <type>ip-src</type>
+        <id>1663</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>diggfunny.com</value>
+        <type>url</type>
+        <id>1664</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fbl.bat</value>
+        <type>filename</type>
+        <id>1665</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.hauri.co.kr</value>
+        <type>url</type>
+        <id>1666</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>daumfan.com</value>
+        <type>url</type>
+        <id>1667</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>uxtheme.dll</value>
+        <type>filename</type>
+        <id>1668</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>40984_d.bat</value>
+        <type>filename</type>
+        <id>1669</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ALAd.dll</value>
+        <type>filename</type>
+        <id>1670</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>zhenxiang.exe</value>
+        <type>filename</type>
+        <id>1671</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>web.archive.org</value>
+        <type>url</type>
+        <id>1672</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>bbs.ezxsoft.com</value>
+        <type>url</type>
+        <id>1673</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>nateon.exe</value>
+        <type>filename</type>
+        <id>1674</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.tmcnet.com</value>
+        <type>url</type>
+        <id>1675</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>expre.dyndns.tv</value>
+        <type>url</type>
+        <id>1676</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>wininet.dll</value>
+        <type>filename</type>
+        <id>1677</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ro.diggfunny.com</value>
+        <type>url</type>
+        <id>1678</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ntdll.dll</value>
+        <type>filename</type>
+        <id>1679</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ALYac.org</value>
+        <type>url</type>
+        <id>1680</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ws2_32.dll</value>
+        <type>filename</type>
+        <id>1681</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>C5_APT_ADecadeInReview.pdf</value>
+        <type>filename</type>
+        <id>1682</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>gdi32.dll</value>
+        <type>filename</type>
+        <id>1683</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>systemexplorer.net</value>
+        <type>url</type>
+        <id>1684</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>soucesp.com</value>
+        <type>url</type>
+        <id>1685</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>112.121.171.94</value>
+        <type>ip-src</type>
+        <id>1686</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>code.kryo.se</value>
+        <type>url</type>
+        <id>1687</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.ipa.go.jp</value>
+        <type>url</type>
+        <id>1688</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.novell.com</value>
+        <type>url</type>
+        <id>1689</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>116.127.121.41</value>
+        <type>ip-src</type>
+        <id>1690</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>kryo.se</value>
+        <type>url</type>
+        <id>1691</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>SK_detail_report.pdf</value>
+        <type>filename</type>
+        <id>1692</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>106140_d.bat</value>
+        <type>filename</type>
+        <id>1693</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ezxsoft.com</value>
+        <type>url</type>
+        <id>1694</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>mtx.bat</value>
+        <type>filename</type>
+        <id>1695</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>8.5.1.8</value>
+        <type>ip-src</type>
+        <id>1696</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>8.5.1.11</value>
+        <type>ip-src</type>
+        <id>1697</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>winsvcfs.dll</value>
+        <type>filename</type>
+        <id>1698</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>version.dll</value>
+        <type>filename</type>
+        <id>1699</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>lab.com</value>
+        <type>url</type>
+        <id>1700</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>116.127.255.255</value>
+        <type>ip-src</type>
+        <id>1701</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>bomul.com</value>
+        <type>url</type>
+        <id>1702</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ALCMUpdate.exe</value>
+        <type>filename</type>
+        <id>1703</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>advapi32.dll</value>
+        <type>filename</type>
+        <id>1704</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>edsplan.com</value>
+        <type>url</type>
+        <id>1705</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>news.mk.co.kr</value>
+        <type>url</type>
+        <id>1706</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>tcmoniter.exe</value>
+        <type>filename</type>
+        <id>1707</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>pc.nprotects.org</value>
+        <type>url</type>
+        <id>1708</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>cache.mindplat.com</value>
+        <type>url</type>
+        <id>1709</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>jsunpack.jeek.org</value>
+        <type>url</type>
+        <id>1710</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>rar.exe</value>
+        <type>filename</type>
+        <id>1711</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>winscard.exe</value>
+        <type>filename</type>
+        <id>1712</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mindplat.com</value>
+        <type>url</type>
+        <id>1713</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ole32.dll</value>
+        <type>filename</type>
+        <id>1714</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>alyac.com</value>
+        <type>url</type>
+        <id>1715</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>finalcover.com</value>
+        <type>url</type>
+        <id>1716</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bce1069dd099f15170c5fd05bae921b5</value>
+        <type>md5</type>
+        <id>1717</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6c6adbd087276ae89f8262582798b708</value>
+        <type>md5</type>
+        <id>1718</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>aba9baea70825e6adf0723587f273dc4</value>
+        <type>md5</type>
+        <id>1719</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>16a31aa8e7ddf66a31551840573b6575</value>
+        <type>md5</type>
+        <id>1720</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fdf2c5c2b1874efe7fd335092df2d3bc</value>
+        <type>md5</type>
+        <id>1721</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>74455d5e8f99272aec64bce106b1e8ff39a122a7d27d362a274af31ab5a4fb1e</value>
+        <type>sha256</type>
+        <id>1722</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b6aecab3c07e915e27db4b4be4c32de1ffa613029818bbd1bb755653c10fbe38</value>
+        <type>sha256</type>
+        <id>1723</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>368</id>
+    <date>2011-10-26</date>
+    <info>Duqu_Trojan_Questions_and_Answers.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>Duqu_Trojan_Questions_and_Answers.pdf</value>
+        <type>comment</type>
+        <id>4674</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>keylogger.exe</value>
+        <type>filename</type>
+        <id>4675</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>kasperskychk.dyndns.org</value>
+        <type>url</type>
+        <id>4676</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>9749d38ae9b9ddd81b50aad679ee87ec</value>
+        <type>md5</type>
+        <id>4677</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0eecd17c6c215b358b7b872b74bfd800</value>
+        <type>md5</type>
+        <id>4678</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bdb562994724a35a1ec5b9e85b8e054f</value>
+        <type>md5</type>
+        <id>4679</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c9a31ea148232b201fe7cb7db5c75f5e</value>
+        <type>md5</type>
+        <id>4680</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3d83b077d32c422d6c7016b5083b9fc2</value>
+        <type>md5</type>
+        <id>4681</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4541e850a228eb69fd0f0e924624b245</value>
+        <type>md5</type>
+        <id>4682</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>401</id>
+    <date>2011-10-12</date>
+    <info>tb_advanced_persistent_threats.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>tb_advanced_persistent_threats.pdf</value>
+        <type>comment</type>
+        <id>5089</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>officeskyline.com</value>
+        <type>url</type>
+        <id>5090</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.no-ip.com</value>
+        <type>url</type>
+        <id>5091</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>98.126.69.3</value>
+        <type>ip-src</type>
+        <id>5092</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>threatlabz@zscaler.com</value>
+        <type>email-src</type>
+        <id>5093</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>enjoyholidays.net</value>
+        <type>url</type>
+        <id>5094</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>CVE-2009-4324</value>
+        <type>vulnerability</type>
+        <id>5095</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>jobcall.org</value>
+        <type>url</type>
+        <id>5096</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Request.pdf</value>
+        <type>filename</type>
+        <id>5097</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>hbgary.anonleaks.ch</value>
+        <type>url</type>
+        <id>5098</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ICP100.net</value>
+        <type>url</type>
+        <id>5099</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>dreamlifes.net</value>
+        <type>url</type>
+        <id>5100</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>taosecurity.blogspot.com</value>
+        <type>url</type>
+        <id>5101</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>savagecounty.net</value>
+        <type>url</type>
+        <id>5102</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>HBGary-QinetiQ.pdf</value>
+        <type>filename</type>
+        <id>5103</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>coffeelaunch.com</value>
+        <type>url</type>
+        <id>5104</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>publicintelligence.info</value>
+        <type>url</type>
+        <id>5105</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>seablow.net</value>
+        <type>url</type>
+        <id>5106</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>wp-global-energy-cyberattacks-night-dragon.pdf</value>
+        <type>filename</type>
+        <id>5107</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Halloween.scr</value>
+        <type>filename</type>
+        <id>5108</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>captainsabertooth.net</value>
+        <type>url</type>
+        <id>5109</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>superdogdream.com</value>
+        <type>url</type>
+        <id>5110</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>sportgameinfo.com</value>
+        <type>url</type>
+        <id>5111</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>178.63.130.197</value>
+        <type>ip-src</type>
+        <id>5112</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>firehappy.sytes.net</value>
+        <type>url</type>
+        <id>5113</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>geoinfo.servehttp.com</value>
+        <type>url</type>
+        <id>5114</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>allmydearfriends.com</value>
+        <type>url</type>
+        <id>5115</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>isc.sans.edu</value>
+        <type>url</type>
+        <id>5116</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Afghanistan.zip</value>
+        <type>filename</type>
+        <id>5117</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>CVE-2010-2883</value>
+        <type>vulnerability</type>
+        <id>5118</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>052e62513505a25ccfadf900a052709c</value>
+        <type>md5</type>
+        <id>5119</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>5b90896127179f0ad2e6628593cdb60d</value>
+        <type>md5</type>
+        <id>5120</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>b0eeca383a7477ee689ec807b775ebbb</value>
+        <type>md5</type>
+        <id>5121</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>438</id>
+    <date>2011-10-31</date>
+    <info>the_nitro_attacks.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>the_nitro_attacks.pdf</value>
+        <type>comment</type>
+        <id>5346</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>anti-virus.sytes.net</value>
+        <type>url</type>
+        <id>5347</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>explorer.exe</value>
+        <type>filename</type>
+        <id>5348</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>antivirus-groups.com</value>
+        <type>url</type>
+        <id>5349</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>iexplore.exe</value>
+        <type>filename</type>
+        <id>5350</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>216.131.95.22</value>
+        <type>ip-src</type>
+        <id>5351</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>xxxx.exe</value>
+        <type>filename</type>
+        <id>5352</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>222.255.28.27</value>
+        <type>ip-src</type>
+        <id>5353</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>noip.org</value>
+        <type>url</type>
+        <id>5354</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>poisonivy-rat.com</value>
+        <type>url</type>
+        <id>5355</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>winsys.exe</value>
+        <type>filename</type>
+        <id>5356</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>domain.rm6.org</value>
+        <type>url</type>
+        <id>5357</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c128c40bd8acb282288e8138352ce4e1</value>
+        <type>md5</type>
+        <id>5358</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>76000c77ea9a214f5b2ae8cc387809db</value>
+        <type>md5</type>
+        <id>5359</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>dd5715cb3b0cdddbe131f03cc08f0f57</value>
+        <type>md5</type>
+        <id>5360</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>330ddac1f605ff8abf60880c584ed797</value>
+        <type>md5</type>
+        <id>5361</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cab66da82594ff5266ac8dd89e3d1539</value>
+        <type>md5</type>
+        <id>5362</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>8d36fd85d9c7d1f4bb170a28cc23498a</value>
+        <type>md5</type>
+        <id>5363</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>17e7022496d8092d3ca76ae9524a7260</value>
+        <type>md5</type>
+        <id>5364</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>70fcb3446fce23b18d9a12b2ed911e52</value>
+        <type>md5</type>
+        <id>5365</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>5d075e9536c5494745135c1176981c96</value>
+        <type>md5</type>
+        <id>5366</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>2f37912e7cb6e5c478e6dc3d0e381a24</value>
+        <type>md5</type>
+        <id>5367</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>87aeec7f7c4ec1b6dc5e6c39b28d8273</value>
+        <type>md5</type>
+        <id>5368</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>31346e5b39ddb095d76071ac86da4c2e</value>
+        <type>md5</type>
+        <id>5369</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>457a2a8d0784e9fc8e49f6ef60f7f29e</value>
+        <type>md5</type>
+        <id>5370</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>091457444b7e7899c242c5125ddc0571</value>
+        <type>md5</type>
+        <id>5371</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>64a4ad90a55e7b6c30c46135435f50a2</value>
+        <type>md5</type>
+        <id>5372</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c53c93a445d751387eb167e5a2b901da</value>
+        <type>md5</type>
+        <id>5373</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>6e99585c3fbd4f3a55bd8f604cb35f38</value>
+        <type>md5</type>
+        <id>5374</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0f54a9757f1a2fef2b04b776714a7546</value>
+        <type>md5</type>
+        <id>5375</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>37f70717f549f1938e5785527e56978d</value>
+        <type>md5</type>
+        <id>5376</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>de7e293aa9c4d849dc080f3e87573b24</value>
+        <type>md5</type>
+        <id>5377</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>a98d2c90b9494fc885c7cd35d43666ea</value>
+        <type>md5</type>
+        <id>5378</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>442</id>
+    <date>2011-11-23</date>
+    <info>w32_duqu_the_precursor_to_the_next_stuxnet.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>w32_duqu_the_precursor_to_the_next_stuxnet.pdf</value>
+        <type>comment</type>
+        <id>5399</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Pccntmon.exe</value>
+        <type>filename</type>
+        <id>5400</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>UmxCfg.exe</value>
+        <type>filename</type>
+        <id>5401</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>kernel32.dll</value>
+        <type>filename</type>
+        <id>5402</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>203627.dll</value>
+        <type>filename</type>
+        <id>5403</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>keylogger.exe</value>
+        <type>filename</type>
+        <id>5404</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>jmp_ntoskrnl.exe</value>
+        <type>filename</type>
+        <id>5405</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bdagent.exe</value>
+        <type>filename</type>
+        <id>5406</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>lsass.exe</value>
+        <type>filename</type>
+        <id>5407</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>netp191.zdata.mz</value>
+        <type>url</type>
+        <id>5408</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>explorer.exe</value>
+        <type>filename</type>
+        <id>5409</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>w32_stuxnet_dossier.pdf</value>
+        <type>filename</type>
+        <id>5410</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>iexplore.exe</value>
+        <type>filename</type>
+        <id>5411</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>tmproxy.exe</value>
+        <type>filename</type>
+        <id>5412</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>res302.dll</value>
+        <type>filename</type>
+        <id>5413</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>avguard.exe</value>
+        <type>filename</type>
+        <id>5414</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ccSvcHst.exe</value>
+        <type>filename</type>
+        <id>5415</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cmi4432_res302.dll</value>
+        <type>filename</type>
+        <id>5416</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cmi4432.dll</value>
+        <type>filename</type>
+        <id>5417</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>RavMonD.exe</value>
+        <type>filename</type>
+        <id>5418</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>77.241.93.160</value>
+        <type>ip-src</type>
+        <id>5419</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Mcshield.exe</value>
+        <type>filename</type>
+        <id>5420</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ekrn.exe</value>
+        <type>filename</type>
+        <id>5421</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.geoffchappell.com</value>
+        <type>url</type>
+        <id>5422</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>123.30.137.117</value>
+        <type>ip-src</type>
+        <id>5423</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>svchost.exe</value>
+        <type>filename</type>
+        <id>5424</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Resource302.dll</value>
+        <type>filename</type>
+        <id>5425</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.csmonitor.com</value>
+        <type>url</type>
+        <id>5426</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>AQ.aq</value>
+        <type>url</type>
+        <id>5427</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Services.exe</value>
+        <type>filename</type>
+        <id>5428</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>rtvscan.exe</value>
+        <type>filename</type>
+        <id>5429</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>68.132.129.18</value>
+        <type>ip-src</type>
+        <id>5430</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ntdll.dll</value>
+        <type>filename</type>
+        <id>5431</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>nep191_res302.dll</value>
+        <type>filename</type>
+        <id>5432</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ntddl.dll</value>
+        <type>filename</type>
+        <id>5433</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>Microsoft.com</value>
+        <type>url</type>
+        <id>5434</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>fsdfwd.exe</value>
+        <type>filename</type>
+        <id>5435</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>360rp.exe</value>
+        <type>filename</type>
+        <id>5436</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ntoskrnl.exe</value>
+        <type>filename</type>
+        <id>5437</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>avp.exe</value>
+        <type>filename</type>
+        <id>5438</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Stuxnet_Under_the_Microscope.pdf</value>
+        <type>filename</type>
+        <id>5439</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>1.9.2.9</value>
+        <type>ip-src</type>
+        <id>5440</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>DSC00001.jpg</value>
+        <type>filename</type>
+        <id>5441</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>cmi4432_203627.dll</value>
+        <type>filename</type>
+        <id>5442</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Firefox.exe</value>
+        <type>filename</type>
+        <id>5443</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>winlogon.exe</value>
+        <type>filename</type>
+        <id>5444</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>dyndns.org</value>
+        <type>url</type>
+        <id>5445</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>360sd.exe</value>
+        <type>filename</type>
+        <id>5446</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>9749d38ae9b9ddd81b50aad679ee87ec</value>
+        <type>md5</type>
+        <id>5447</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>0eecd17c6c215b358b7b872b74bfd800</value>
+        <type>md5</type>
+        <id>5448</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>856a13fcae0407d83499fc9c3dd791ba</value>
+        <type>md5</type>
+        <id>5449</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>c9a31ea148232b201fe7cb7db5c75f5e</value>
+        <type>md5</type>
+        <id>5450</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4541e850a228eb69fd0f0e924624b245</value>
+        <type>md5</type>
+        <id>5451</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>3d83b077d32c422d6c7016b5083b9fc2</value>
+        <type>md5</type>
+        <id>5452</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>723c71bd7a6c1a02fa6df337c926410d0219103a</value>
+        <type>sha1</type>
+        <id>5453</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>4c804ef67168e90da2c3da58b60c3d16</value>
+        <type>md5</type>
+        <id>5454</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>d17c6a9ed7299a8a55cd962bdb8a5a974d0cb660</value>
+        <type>sha1</type>
+        <id>5455</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>588476196941262b93257fd89dd650ae97736d4d</value>
+        <type>sha1</type>
+        <id>5456</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>92aa68425401ffedcfba4235584ad487</value>
+        <type>md5</type>
+        <id>5457</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>371</id>
+    <date>2011-12-28</date>
+    <info>Evolution_Drivers_Duqu_Stuxnet.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>Evolution_Drivers_Duqu_Stuxnet.pdf</value>
+        <type>comment</type>
+        <id>4696</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>546c4bbebf02a1604eb2caaad4974de0</value>
+        <type>md5</type>
+        <id>4697</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>9aec6e10c5ee9c05bed93221544c783e</value>
+        <type>md5</type>
+        <id>4698</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>395</id>
+    <date>2011-12-08</date>
+    <info>Palebot_Palestinian_credentials.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>Palebot_Palestinian_credentials.pdf</value>
+        <type>comment</type>
+        <id>4971</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.fatehforums.com</value>
+        <type>url</type>
+        <id>4972</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>svcshost.exe</value>
+        <type>filename</type>
+        <id>4973</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>svchost.exe</value>
+        <type>filename</type>
+        <id>4974</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>myaccount.jawwal.ps</value>
+        <type>url</type>
+        <id>4975</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>aylol.doc</value>
+        <type>filename</type>
+        <id>4976</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>moneybookers.com</value>
+        <type>url</type>
+        <id>4977</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.myspace.com</value>
+        <type>url</type>
+        <id>4978</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>portal.iugaza.edu.ps</value>
+        <type>url</type>
+        <id>4979</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.alsbah.net</value>
+        <type>url</type>
+        <id>4980</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>mail.mtit.pna.ps</value>
+        <type>url</type>
+        <id>4981</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>25f758425fcea95ea07488e13f07e005</value>
+        <type>md5</type>
+        <id>4982</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>1954622c1fe142200ad06eec12291fcd</value>
+        <type>md5</type>
+        <id>4983</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>7f3b74c9274f501bf0d9ded414b62f80</value>
+        <type>md5</type>
+        <id>4984</id>
+      </item>
+    </Attribute>
+  </Event>
+</CTIMinerDataset>

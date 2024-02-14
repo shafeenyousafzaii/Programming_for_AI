@@ -1,0 +1,765 @@
+<CTIMinerDataset>
+  <Event>
+    <id>3</id>
+    <date>2009-01-18</date>
+    <info>Ashmore_Impact-of-Alleged-Russian-Cyber-Attacks(Jan-18-09).pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>Ashmore_Impact-of-Alleged-Russian-Cyber-Attacks(Jan-18-09).pdf</value>
+        <type>comment</type>
+        <id>194</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>prygi.blogspot.com</value>
+        <type>url</type>
+        <id>195</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>transnet.act.nato.int</value>
+        <type>url</type>
+        <id>196</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.times.spb.ru</value>
+        <type>url</type>
+        <id>197</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>lumen.cgsccarl.com</value>
+        <type>url</type>
+        <id>198</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>translate.google.ru</value>
+        <type>url</type>
+        <id>199</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.wmdinsights.com</value>
+        <type>url</type>
+        <id>200</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.euractiv.com</value>
+        <type>url</type>
+        <id>201</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>stu.neva.ru</value>
+        <type>url</type>
+        <id>202</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>CNN.com</value>
+        <type>url</type>
+        <id>203</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>Infopass.net</value>
+        <type>url</type>
+        <id>204</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.businessweek.com</value>
+        <type>url</type>
+        <id>205</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.iht.com</value>
+        <type>url</type>
+        <id>206</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>nato.int</value>
+        <type>url</type>
+        <id>207</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>EurActiv.com</value>
+        <type>url</type>
+        <id>208</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>search.ebscohost.com</value>
+        <type>url</type>
+        <id>209</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.osce.org</value>
+        <type>url</type>
+        <id>210</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>ec.europa.eu</value>
+        <type>url</type>
+        <id>211</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>America.gov</value>
+        <type>url</type>
+        <id>212</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.opensource.gov</value>
+        <type>url</type>
+        <id>213</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>conventions.coe.int</value>
+        <type>url</type>
+        <id>214</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.nato.int</value>
+        <type>url</type>
+        <id>215</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.guardian.co.uk</value>
+        <type>url</type>
+        <id>216</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.un.org</value>
+        <type>url</type>
+        <id>217</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>StopGeorgia.ru</value>
+        <type>url</type>
+        <id>218</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>studies.do</value>
+        <type>url</type>
+        <id>219</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>proquest.umi.com</value>
+        <type>url</type>
+        <id>220</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>Economist.com</value>
+        <type>url</type>
+        <id>221</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.baltictimes.com</value>
+        <type>url</type>
+        <id>222</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.earthtimes.org</value>
+        <type>url</type>
+        <id>223</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.america.gov</value>
+        <type>url</type>
+        <id>224</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.foreignpolicy.com</value>
+        <type>url</type>
+        <id>225</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>Forbes.com</value>
+        <type>url</type>
+        <id>226</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.jamestown.org</value>
+        <type>url</type>
+        <id>227</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.europarl.europa.eu</value>
+        <type>url</type>
+        <id>228</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>Civil.ge</value>
+        <type>url</type>
+        <id>229</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.economist.com</value>
+        <type>url</type>
+        <id>230</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.dni.gov</value>
+        <type>url</type>
+        <id>231</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.inforwars.net</value>
+        <type>url</type>
+        <id>232</id>
+      </item>
+    </Attribute>
+  </Event>
+  <Event>
+    <id>6</id>
+    <date>2009-03-29</date>
+    <info>ghostnet.pdf</info>
+    <Attribute>
+      <item>
+        <category>Other</category>
+        <comment/>
+        <value>ghostnet.pdf</value>
+        <type>comment</type>
+        <id>246</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>210.51.7.155</value>
+        <type>ip-src</type>
+        <id>247</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.internetworldstats.com</value>
+        <type>url</type>
+        <id>248</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>worldanalysis.net</value>
+        <type>url</type>
+        <id>249</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Beijings-rising-hackers.pdf</value>
+        <type>filename</type>
+        <id>250</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.yorku.ca</value>
+        <type>url</type>
+        <id>251</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>broad.hk.hi.dynamic.163data.com.cn</value>
+        <type>url</type>
+        <id>252</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>xxxxxxxxxxxxxxxxxxxxxxxxx.broad.hk.hi.dynamic.163data.com.cn</value>
+        <type>url</type>
+        <id>253</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>com.cn</value>
+        <type>url</type>
+        <id>254</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>campaigns@freetibet.org</value>
+        <type>email-src</type>
+        <id>255</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.indexindian.com</value>
+        <type>url</type>
+        <id>256</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>bg_2106.pdf</value>
+        <type>filename</type>
+        <id>257</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>61.188.87.58</value>
+        <type>ip-src</type>
+        <id>258</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>221.5.250.98</value>
+        <type>ip-src</type>
+        <id>259</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>opennet.net</value>
+        <type>url</type>
+        <id>260</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.nato.int</value>
+        <type>url</type>
+        <id>261</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.networkcia.com</value>
+        <type>url</type>
+        <id>262</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.afa.org</value>
+        <type>url</type>
+        <id>263</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.csmonitor.com</value>
+        <type>url</type>
+        <id>264</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.slate.com</value>
+        <type>url</type>
+        <id>265</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.macfeeresponse.com</value>
+        <type>url</type>
+        <id>266</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Crouching_Powerpoint_Hidden_Trojan_24C3.pdf</value>
+        <type>filename</type>
+        <id>267</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>lookbytheway.net</value>
+        <type>url</type>
+        <id>268</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.indexnews.org</value>
+        <type>url</type>
+        <id>269</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>07-F-2105doc1.pdf</value>
+        <type>filename</type>
+        <id>270</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>Dalailama.com</value>
+        <type>url</type>
+        <id>271</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.macfeeresponse.org</value>
+        <type>url</type>
+        <id>272</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>bigwww.com</value>
+        <type>url</type>
+        <id>273</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.citzenlab.org</value>
+        <type>url</type>
+        <id>274</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.lookbytheway.com</value>
+        <type>url</type>
+        <id>275</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.msnppt.net</value>
+        <type>url</type>
+        <id>276</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>blog.stopbadware.org</value>
+        <type>url</type>
+        <id>277</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.itu.int</value>
+        <type>url</type>
+        <id>278</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.lookbytheway.net</value>
+        <type>url</type>
+        <id>279</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>rising-hackers.pdf</value>
+        <type>filename</type>
+        <id>280</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.msnyf.com</value>
+        <type>url</type>
+        <id>281</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.webpronews.com</value>
+        <type>url</type>
+        <id>282</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>3322.org</value>
+        <type>url</type>
+        <id>283</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.daemon.be</value>
+        <type>url</type>
+        <id>284</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>infowar-monitor.net</value>
+        <type>url</type>
+        <id>285</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ONI_Belarus_Country_Study.pdf</value>
+        <type>filename</type>
+        <id>286</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>macfeeresponse.org</value>
+        <type>url</type>
+        <id>287</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.dod.mil</value>
+        <type>url</type>
+        <id>288</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.globalsecurity.org</value>
+        <type>url</type>
+        <id>289</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>xxxxxxxxxxx.broad.hk</value>
+        <type>url</type>
+        <id>290</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>VirusTotal.com</value>
+        <type>url</type>
+        <id>291</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.businessweek.com</value>
+        <type>url</type>
+        <id>292</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>findarticles.com</value>
+        <type>url</type>
+        <id>293</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.msnxy.net</value>
+        <type>url</type>
+        <id>294</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>218.241.153.61</value>
+        <type>ip-src</type>
+        <id>295</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Deibert.pdf</value>
+        <type>filename</type>
+        <id>296</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.insidetech.com</value>
+        <type>url</type>
+        <id>297</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Exile.doc</value>
+        <type>filename</type>
+        <id>298</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>kn.theiet.org</value>
+        <type>url</type>
+        <id>299</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>58.141.132.66</value>
+        <type>ip-src</type>
+        <id>300</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>221.10.254.248</value>
+        <type>ip-src</type>
+        <id>301</id>
+      </item>
+      <item>
+        <category>Payload delivery</category>
+        <comment/>
+        <value>losttemp33@hotmail.com</value>
+        <type>email-src</type>
+        <id>302</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.heritage.org</value>
+        <type>url</type>
+        <id>303</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.secdev.ca</value>
+        <type>url</type>
+        <id>304</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>freetibet.org</value>
+        <type>url</type>
+        <id>305</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>www.infowar-monitor.net</value>
+        <type>url</type>
+        <id>306</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>xxxxxxxxxxxx.broad.hk.hi.dynamic.163data.com.cn</value>
+        <type>url</type>
+        <id>307</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>fmso.leavenworth.army.mil</value>
+        <type>url</type>
+        <id>308</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>Vanhorenbeeck.pdf</value>
+        <type>filename</type>
+        <id>309</id>
+      </item>
+      <item>
+        <category>Network activity</category>
+        <comment/>
+        <value>124.135.97.21</value>
+        <type>ip-src</type>
+        <id>310</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>victorycyberspace.pdf</value>
+        <type>filename</type>
+        <id>311</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>79f7f4695b8878cf1760e8626129ca88</value>
+        <type>md5</type>
+        <id>312</id>
+      </item>
+      <item>
+        <category>External analysis</category>
+        <comment/>
+        <value>ea03a7359505e19146994ad77b2a1e46</value>
+        <type>md5</type>
+        <id>313</id>
+      </item>
+    </Attribute>
+  </Event>
+</CTIMinerDataset>
